@@ -23,3 +23,6 @@ falls back to a built-in **demo mode** (amber banner) when the API is unreachabl
 - Sample list: "Test List" (27 pending / 23 done / 11 scheduled)
 
 Once the API is back up, the app uses it automatically.
+
+See [SUBMISSION_NOTES.md](SUBMISSION_NOTES.md) for the server status, the endpoints, and the
+TLS workaround.
